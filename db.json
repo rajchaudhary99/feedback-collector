@@ -1,0 +1,19 @@
+{
+  "feedbacks": [
+    {
+      "id": "6ce9fa46-6372-49c1-9dfb-b3ded08e64a1",
+      "name": "Raj Vardhan Chaudhary",
+      "email": "rajchaudhary8723@gmail.com",
+      "message": "fghgghghgh",
+      "timestamp": "2025-04-08T11:43:23.580Z"
+    },
+    {
+      "id": "885e993c-1c87-4c35-9f67-11fbb93d5599",
+      "name": "Raj Vardhan Chaudhary",
+      "email": "rajchaudhary8733@gmail.com",
+      "message": "hello",
+      "timestamp": "2025-04-09T13:25:23.516Z"
+    }
+  ],
+  "pending_feedbacks": []
+}

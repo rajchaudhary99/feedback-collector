@@ -1,0 +1,78 @@
+.admin-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  .loading {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .pending-section, .approved-section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .pending-section {
+    background-color: #fff3cd;
+  }
+  
+  .approved-section {
+    background-color: #d4edda;
+  }
+  
+  .feedback-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .feedback-item {
+    background-color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .feedback-item.approved {
+    border-left: 4px solid #28a745;
+  }
+  
+  .feedback-content h3 {
+    margin: 0 0 0.5rem;
+    color: #2c3e50;
+  }
+  
+  .feedback-content p {
+    margin: 0.5rem 0;
+  }
+  
+  .feedback-content small {
+    color: #6c757d;
+  }
+  
+  .feedback-actions {
+    margin-top: 1rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .approve-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .reject-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
