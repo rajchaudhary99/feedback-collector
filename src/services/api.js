@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:3001';
+// const API_URL = 'http://localhost:3001';
+const API_URL = 'https://feedback-collector-orcin.vercel.app/';
 
 // Submit new feedback (goes to pending)
 export const submitNewFeedback = async (feedback) => {
